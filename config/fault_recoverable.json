@@ -1,0 +1,8 @@
+[
+  {"kind":"camera_drop","start":10,"duration":6},
+  {"kind":"camera_delay","start":24,"duration":6,"value":0.35},
+  {"kind":"black_frame","start":38,"duration":6},
+  {"kind":"telemetry_drop","start":52,"duration":6},
+  {"kind":"ekf_invalid","start":66,"duration":6},
+  {"kind":"worker_delay","start":80,"duration":6,"value":0.35}
+]

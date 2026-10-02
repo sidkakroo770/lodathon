@@ -1,0 +1,12 @@
+{
+  "n_min": -1.6,
+  "n_max": 38.4,
+  "e_min": -2.2,
+  "e_max": 27.8,
+  "altitude": 10.0,
+  "ground_above_home": -0.192,
+  "camera": {"width": 640, "height": 480, "hfov": 0.49214025697159175},
+  "overlap": 0.3,
+  "resolution": 0.1,
+  "speed": 0.75
+}

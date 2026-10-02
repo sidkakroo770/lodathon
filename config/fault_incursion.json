@@ -1,0 +1,5 @@
+[
+  {"kind":"push_north","start":0,"duration":4,"value":0.75},
+  {"kind":"camera_drop","start":0.1,"duration":4.9},
+  {"kind":"actuator_hold","start":4,"duration":5}
+]

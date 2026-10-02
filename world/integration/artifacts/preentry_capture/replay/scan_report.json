@@ -1,0 +1,26 @@
+{
+  "beams": 500,
+  "finite_beams": 86,
+  "confidence": 0.0,
+  "strict_valid": false,
+  "width": Infinity,
+  "sectors": {
+    "L": null,
+    "FL": null,
+    "F": null,
+    "FR": null,
+    "R": null
+  },
+  "left": {
+    "candidate_points": 5,
+    "fit_valid": false,
+    "span": 0.0,
+    "rms": Infinity
+  },
+  "right": {
+    "candidate_points": 5,
+    "fit_valid": false,
+    "span": 0.0,
+    "rms": Infinity
+  }
+}

@@ -1,0 +1,14 @@
+autonomous mission_SAE_AEROTHON.pdf
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.venv/
+venv/
+
+# Large generated telemetry / SITL logs
+*.tlog
+*.tlog.raw
+*.BIN
+artifacts/
+world/experiments/*/artifacts/
